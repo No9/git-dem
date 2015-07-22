@@ -1,2 +1,2 @@
-var mod = require('./')
+var mod = require('./module')
 console.log(mod())
